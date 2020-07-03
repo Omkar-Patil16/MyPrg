@@ -12,4 +12,7 @@ func main() {
 	y := 34 + 56
 	fmt.Println(y)
 
+	z := "David Miller"
+	fmt.Println(z)
+
 }
