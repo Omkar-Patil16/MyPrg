@@ -3,7 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("this is the first go code for me")
+	n,e := fmt.Println("this is the first go code for me")
+	fmt.Println(n)
+	fmt.Println(e)
 
 	mytest()
 
