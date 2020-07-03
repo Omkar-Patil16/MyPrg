@@ -1,7 +1,8 @@
 package main
 
 import "fmt"
-func main {
+
+func main() {
 	x := 42
 	fmt.Println(x)
 
@@ -10,6 +11,5 @@ func main {
 
 	y := 34 + 56
 	fmt.Println(y)
-
 
 }
